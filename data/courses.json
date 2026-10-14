@@ -1,0 +1,56 @@
+[
+  {
+    "id": "first-day",
+    "titleAr": "أول يوم عمل",
+    "titleEn": "Your First Day",
+    "category": "work",
+    "level": "free",
+    "descriptionAr": "كيف تستعد وتترك انطباعًا جيدًا من البداية.",
+    "descriptionEn": "Prepare and make a strong first impression."
+  },
+  {
+    "id": "professional-email",
+    "titleAr": "الإيميل المهني",
+    "titleEn": "Professional Email",
+    "category": "communication",
+    "level": "free",
+    "descriptionAr": "اكتب رسائل واضحة ومختصرة بثقة.",
+    "descriptionEn": "Write clear, concise workplace emails."
+  },
+  {
+    "id": "interview",
+    "titleAr": "الاستعداد للمقابلات",
+    "titleEn": "Interview Readiness",
+    "category": "career",
+    "level": "free",
+    "descriptionAr": "أسئلة شائعة وتمارين للتحضير.",
+    "descriptionEn": "Common questions and preparation exercises."
+  },
+  {
+    "id": "first-90-days",
+    "titleAr": "أول 90 يوم في الوظيفة",
+    "titleEn": "Your First 90 Days",
+    "category": "work",
+    "level": "paid",
+    "descriptionAr": "مسار تطبيقي لبناء عادات مهنية قوية.",
+    "descriptionEn": "Practical training for strong professional habits."
+  },
+  {
+    "id": "workplace-skills",
+    "titleAr": "مهارات بيئة العمل",
+    "titleEn": "Workplace Skills",
+    "category": "communication",
+    "level": "paid",
+    "descriptionAr": "اجتماعات، تعاون، وحل مشكلات.",
+    "descriptionEn": "Meetings, collaboration and problem-solving."
+  },
+  {
+    "id": "career-launch",
+    "titleAr": "الانطلاقة المهنية",
+    "titleEn": "Career Launch",
+    "category": "career",
+    "level": "paid",
+    "descriptionAr": "برنامج متكامل لبداية مهنية مدروسة.",
+    "descriptionEn": "A structured program for starting your career."
+  }
+]
