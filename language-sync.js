@@ -12,7 +12,9 @@ function extras(){
  const titles={
  'index.html':['BEFOR9 — قبل أول يوم عمل','BEFOR9 — Before Your First Day'],
  'corporate.html':['BEFOR9 | برامج الشركات','BEFOR9 | Business Programs'],
- 'toolkit.html':['BEFOR9 | أدوات الطلاب','BEFOR9 | Student Tools'],
+ 'toolkit.html':['BEFOR9 | خدمات التطوير المهني','BEFOR9 | Career Services'],
+ 'cv-linkedin.html':['BEFOR9 | سيرتك ولينكدإن','BEFOR9 | CV & LinkedIn'],
+ 'professional.html':['BEFOR9 | من خريج إلى محترف','BEFOR9 | Graduate to Professional'],
  'accounts.html':['BEFOR9 | التسجيل التجريبي','BEFOR9 | Account Preview'],
  'surveys.html':['BEFOR9 | استبيانات الطلاب','BEFOR9 | Student Surveys'],
  'graduation.html':['BEFOR9 | مساعد مشروع التخرج','BEFOR9 | Graduation Project Planner'],
